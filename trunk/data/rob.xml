@@ -1,0 +1,7 @@
+<robots>
+	<rob id="1">
+		<etat>taxi</etat>
+		<pos>Sur le circuit</pos>
+		<batt>30%</batt>
+	<rob>
+</robots>
