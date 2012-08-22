@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<robots>
+
+<rob id="1">
+	<etat>taxi</etat>
+	<pos>Sur le circuit</pos>
+	<batt>30</batt>
+</rob>
+
+<rob id="5">
+	<etat>OK</etat>
+	<pos>Hors circuit</pos>
+	<batt>75</batt>
+</rob>  
+
+</robots>
+	
+	

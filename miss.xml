@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<missions>
+
+<miss id="1">
+	<etat>running</etat>
+	<rob>1</rob>
+	<duree>1:30</duree>
+</miss>
+<miss id="2">
+	<etat>canceled</etat>
+	<rob>3</rob>
+	<duree>2:00</duree>
+</miss>
+<miss id="4">
+	<etat>finished</etat>
+	<rob>4</rob>
+	<duree>5:00</duree>
+</miss>
+<miss id="5">
+	<etat>canceled</etat>
+	<rob>89</rob>
+	<duree>55:00</duree>
+</miss>
+
+</missions>
+	
+	
