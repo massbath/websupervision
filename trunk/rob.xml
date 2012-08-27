@@ -4,14 +4,52 @@
 <rob id="1">
 	<etat>taxi</etat>
 	<pos>Sur le circuit</pos>
-	<batt>30</batt>
+	<batt>50</batt>
 </rob>
 
 <rob id="5">
-	<etat>OK</etat>
+	<etat>run</etat>
 	<pos>Hors circuit</pos>
-	<batt>75</batt>
+	<batt>57</batt>
 </rob>  
+
+<rob id="2">
+	<etat>taxi</etat>
+	<pos>Sur le circuit</pos>
+	<batt>88</batt>
+</rob>
+
+<rob id="4">
+	<etat>run</etat>
+	<pos>Hors circuit</pos>
+	<batt>5</batt>
+</rob> 
+<rob id="1">
+	<etat>taxi</etat>
+	<pos>Sur le circuit</pos>
+	<batt>50</batt>
+</rob>
+
+<rob id="5">
+	<etat>run</etat>
+	<pos>Hors circuit</pos>
+	<batt>57</batt>
+</rob>  
+
+<rob id="2">
+	<etat>taxi</etat>
+	<pos>Sur le circuit</pos>
+	<batt>88</batt>
+</rob>
+
+<rob id="4">
+	<etat>run</etat>
+	<pos>Hors circuit</pos>
+	<batt>5</batt>
+</rob> 
+ 
+ 
+ 
 
 </robots>
 	

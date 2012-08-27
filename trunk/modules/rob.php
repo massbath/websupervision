@@ -7,8 +7,11 @@
   </div>
 </header>
 
+<div id="debug">
+</div>
+
 <div id="robTab">
-	<table class="table table-bordered table-striped">
+	<table class="table table-bordered table-striped ">
 		<thead>
 			<tr>
 			   <th>Id</th>

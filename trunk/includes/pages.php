@@ -1,6 +1,6 @@
 <?php
 	if (empty ($_GET['page']))	{
-	include ("modules/default.php");
+	include ("modules/accueil.php");
 	}
 	
 	

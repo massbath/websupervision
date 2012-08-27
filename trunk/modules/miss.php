@@ -11,6 +11,7 @@
 <div class="tabbable ">
 		<ul class="nav nav-pills">
 		  <li class="active"><a href="#all" data-toggle="tab">Toutes</a></li>
+		  <li><a href="#waiting" data-toggle="tab">En attente</a></li>
 		  <li><a href="#running" data-toggle="tab">En cours</a></li>
 		  <li><a href="#finished" data-toggle="tab">Terminée</a></li>
 		  <li><a href="#canceled" data-toggle="tab">Annulée</a></li>
@@ -20,7 +21,14 @@
 				<div id="missTab" >
 					<?php include("modules/table_miss.php") ;?>
 				</div>
+			</div>
+			<div class="tab-pane " id="waiting">
+				<div class="tab-pane active" id="all">
+				<div id="missTabWaiting" >
+					<?php include("modules/table_miss.php") ;?>
 				</div>
+				</div>
+			</div>
 			<div class="tab-pane " id="running">
 				<div class="tab-pane active" id="all">
 				<div id="missTabRunning" >
